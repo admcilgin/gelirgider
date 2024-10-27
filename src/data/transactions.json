@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": "t1",
+      "type": "expense",
+      "amount": 45.99,
+      "category": "groceries",
+      "description": "Weekly groceries",
+      "date": "2024-03-15T10:30:00Z"
+    },
+    {
+      "id": "t2",
+      "type": "income",
+      "amount": 2500.00,
+      "category": "salary",
+      "description": "Monthly salary",
+      "date": "2024-03-01T09:00:00Z"
+    },
+    {
+      "id": "t3",
+      "type": "expense",
+      "amount": 89.99,
+      "category": "utilities",
+      "description": "Electricity bill",
+      "date": "2024-03-10T15:20:00Z"
+    }
+  ]
+}

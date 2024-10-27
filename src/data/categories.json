@@ -1,0 +1,43 @@
+{
+  "categories": {
+    "expense": [
+      {
+        "id": "cat1",
+        "name": "groceries",
+        "icon": "🛒"
+      },
+      {
+        "id": "cat2",
+        "name": "utilities",
+        "icon": "💡"
+      },
+      {
+        "id": "cat3",
+        "name": "transportation",
+        "icon": "🚗"
+      },
+      {
+        "id": "cat4",
+        "name": "entertainment",
+        "icon": "🎬"
+      }
+    ],
+    "income": [
+      {
+        "id": "cat5",
+        "name": "salary",
+        "icon": "💰"
+      },
+      {
+        "id": "cat6",
+        "name": "freelance",
+        "icon": "💻"
+      },
+      {
+        "id": "cat7",
+        "name": "investments",
+        "icon": "📈"
+      }
+    ]
+  }
+}
